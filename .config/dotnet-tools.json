@@ -1,0 +1,186 @@
+{
+  "version": 1,
+  "isRoot": true,
+  "tools": {
+    "trcombine": {
+      "version": "0.14.2",
+      "commands": [
+        "trcombine"
+      ]
+    },
+    "trdelabel": {
+      "version": "0.14.2",
+      "commands": [
+        "trdelabel"
+      ]
+    },
+    "trdelete": {
+      "version": "0.14.2",
+      "commands": [
+        "trdelete"
+      ]
+    },
+    "trdot": {
+      "version": "0.14.2",
+      "commands": [
+        "trdot"
+      ]
+    },
+    "trfold": {
+      "version": "0.14.2",
+      "commands": [
+        "trfold"
+      ]
+    },
+    "trfoldlit": {
+      "version": "0.14.2",
+      "commands": [
+        "trfoldlit"
+      ]
+    },
+    "trformat": {
+      "version": "0.14.2",
+      "commands": [
+        "trformat"
+      ]
+    },
+    "trgen": {
+      "version": "0.14.2",
+      "commands": [
+        "trgen"
+      ]
+    },
+    "trgroup": {
+      "version": "0.14.2",
+      "commands": [
+        "trgroup"
+      ]
+    },
+    "trinsert": {
+      "version": "0.14.2",
+      "commands": [
+        "trinsert"
+      ]
+    },
+    "tritext": {
+      "version": "0.14.2",
+      "commands": [
+        "tritext"
+      ]
+    },
+    "trjson": {
+      "version": "0.14.2",
+      "commands": [
+        "trjson"
+      ]
+    },
+    "trkleene": {
+      "version": "0.14.2",
+      "commands": [
+        "trkleene"
+      ]
+    },
+    "trmove": {
+      "version": "0.14.2",
+      "commands": [
+        "trmove"
+      ]
+    },
+    "trparse": {
+      "version": "0.14.2",
+      "commands": [
+        "trparse"
+      ]
+    },
+    "trprint": {
+      "version": "0.14.2",
+      "commands": [
+        "trprint"
+      ]
+    },
+    "trrename": {
+      "version": "0.14.2",
+      "commands": [
+        "trrename"
+      ]
+    },
+    "trreplace": {
+      "version": "0.14.2",
+      "commands": [
+        "trreplace"
+      ]
+    },
+    "trrr": {
+      "version": "0.14.2",
+      "commands": [
+        "trrr"
+      ]
+    },
+    "trrup": {
+      "version": "0.14.2",
+      "commands": [
+        "trrup"
+      ]
+    },
+    "trsplit": {
+      "version": "0.14.2",
+      "commands": [
+        "trsplit"
+      ]
+    },
+    "trtext": {
+      "version": "0.14.2",
+      "commands": [
+        "trtext"
+      ]
+    },
+    "trtokens": {
+      "version": "0.14.2",
+      "commands": [
+        "trtokens"
+      ]
+    },
+    "trtree": {
+      "version": "0.14.2",
+      "commands": [
+        "trtree"
+      ]
+    },
+    "trull": {
+      "version": "0.14.2",
+      "commands": [
+        "trull"
+      ]
+    },
+    "trunfold": {
+      "version": "0.14.2",
+      "commands": [
+        "trunfold"
+      ]
+    },
+    "trwdog": {
+      "version": "0.14.2",
+      "commands": [
+        "trwdog"
+      ]
+    },
+    "trxgrep": {
+      "version": "0.14.2",
+      "commands": [
+        "trxgrep"
+      ]
+    },
+    "trxml": {
+      "version": "0.14.2",
+      "commands": [
+        "trxml"
+      ]
+    },
+    "trxml2": {
+      "version": "0.14.2",
+      "commands": [
+        "trxml2"
+      ]
+    }
+  }
+}
