@@ -3,181 +3,181 @@
   "isRoot": true,
   "tools": {
     "trcombine": {
-      "version": "0.14.2",
+      "version": "0.14.3",
       "commands": [
         "trcombine"
       ]
     },
     "trdelabel": {
-      "version": "0.14.2",
+      "version": "0.14.3",
       "commands": [
         "trdelabel"
       ]
     },
     "trdelete": {
-      "version": "0.14.2",
+      "version": "0.14.3",
       "commands": [
         "trdelete"
       ]
     },
     "trdot": {
-      "version": "0.14.2",
+      "version": "0.14.3",
       "commands": [
         "trdot"
       ]
     },
     "trfold": {
-      "version": "0.14.2",
+      "version": "0.14.3",
       "commands": [
         "trfold"
       ]
     },
     "trfoldlit": {
-      "version": "0.14.2",
+      "version": "0.14.3",
       "commands": [
         "trfoldlit"
       ]
     },
     "trformat": {
-      "version": "0.14.2",
+      "version": "0.14.3",
       "commands": [
         "trformat"
       ]
     },
     "trgen": {
-      "version": "0.14.2",
+      "version": "0.14.3",
       "commands": [
         "trgen"
       ]
     },
     "trgroup": {
-      "version": "0.14.2",
+      "version": "0.14.3",
       "commands": [
         "trgroup"
       ]
     },
     "trinsert": {
-      "version": "0.14.2",
+      "version": "0.14.3",
       "commands": [
         "trinsert"
       ]
     },
     "tritext": {
-      "version": "0.14.2",
+      "version": "0.14.3",
       "commands": [
         "tritext"
       ]
     },
     "trjson": {
-      "version": "0.14.2",
+      "version": "0.14.3",
       "commands": [
         "trjson"
       ]
     },
     "trkleene": {
-      "version": "0.14.2",
+      "version": "0.14.3",
       "commands": [
         "trkleene"
       ]
     },
     "trmove": {
-      "version": "0.14.2",
+      "version": "0.14.3",
       "commands": [
         "trmove"
       ]
     },
     "trparse": {
-      "version": "0.14.2",
+      "version": "0.14.3",
       "commands": [
         "trparse"
       ]
     },
     "trprint": {
-      "version": "0.14.2",
+      "version": "0.14.3",
       "commands": [
         "trprint"
       ]
     },
     "trrename": {
-      "version": "0.14.2",
+      "version": "0.14.3",
       "commands": [
         "trrename"
       ]
     },
     "trreplace": {
-      "version": "0.14.2",
+      "version": "0.14.3",
       "commands": [
         "trreplace"
       ]
     },
     "trrr": {
-      "version": "0.14.2",
+      "version": "0.14.3",
       "commands": [
         "trrr"
       ]
     },
     "trrup": {
-      "version": "0.14.2",
+      "version": "0.14.3",
       "commands": [
         "trrup"
       ]
     },
     "trsplit": {
-      "version": "0.14.2",
+      "version": "0.14.3",
       "commands": [
         "trsplit"
       ]
     },
     "trtext": {
-      "version": "0.14.2",
+      "version": "0.14.3",
       "commands": [
         "trtext"
       ]
     },
     "trtokens": {
-      "version": "0.14.2",
+      "version": "0.14.3",
       "commands": [
         "trtokens"
       ]
     },
     "trtree": {
-      "version": "0.14.2",
+      "version": "0.14.3",
       "commands": [
         "trtree"
       ]
     },
     "trull": {
-      "version": "0.14.2",
+      "version": "0.14.3",
       "commands": [
         "trull"
       ]
     },
     "trunfold": {
-      "version": "0.14.2",
+      "version": "0.14.3",
       "commands": [
         "trunfold"
       ]
     },
     "trwdog": {
-      "version": "0.14.2",
+      "version": "0.14.3",
       "commands": [
         "trwdog"
       ]
     },
     "trxgrep": {
-      "version": "0.14.2",
+      "version": "0.14.3",
       "commands": [
         "trxgrep"
       ]
     },
     "trxml": {
-      "version": "0.14.2",
+      "version": "0.14.3",
       "commands": [
         "trxml"
       ]
     },
     "trxml2": {
-      "version": "0.14.2",
+      "version": "0.14.3",
       "commands": [
         "trxml2"
       ]
